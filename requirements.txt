@@ -14,3 +14,10 @@ Pillow>=7.1.0
 scikit-image>=0.17.2
 scikit-learn>=0.20
 scipy>=1.4.1
+julia
+mygene
+decoupler
+scanpy
+seaborn
+squidpy==1.2
+utag @ git+https://github.com/ElementoLab/utag.git@main
